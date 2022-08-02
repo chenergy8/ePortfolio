@@ -1,0 +1,89 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: comic sans ms;
+}
+ul.menu li
+{
+	display: inline-block;
+}
+ul.menu li a:hover
+{
+	color: rgb(214, 214, 214); 
+	background-color: black;
+}
+ul.menu li a 
+{
+	display: inline-block;
+	text-decoration: none; 
+	padding: 30px 25px;
+	color: white;
+}
+ul.menu
+{
+	color: white;
+	text-align: center; 
+	background-color: black;
+	font-size: 25px;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+h1
+{
+	text-align: center;
+	margin-top: 100px;
+	color: white;
+}
+p
+{
+	text-align: center;
+	color: white;
+}
+ul.goals
+{
+	text-align: center; 
+	margin-top: 50px;
+	list-style-type: disc;
+	color: white;
+}
+h2
+{
+	text-align: center;
+	margin-top: 50px;
+	color: white;
+}
+p.math
+{
+	text-decoration: none;
+}
+body.index
+{
+	background-image: url("../img/space.png");
+}
+body.outside
+{
+	background-image: url("../img/genesis.png");
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-color: black;
+	background-size: 2000px 1000px;
+
+}
+
+body.course
+{
+	background-image: url("../img/genesis2.jpeg");
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-color: black;
+	background-size: 2000px 1000px;
+}
+body.about
+{
+	Background-image: url("../img/skate.jpg");
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-size: 2000px 1000px;
+}
